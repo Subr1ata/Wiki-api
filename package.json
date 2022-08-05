@@ -1,0 +1,15 @@
+{
+  "name": "wiki-app",
+  "version": "1.0.0",
+  "description": "simple script to post a random Wikipedia article along with the summary to a telegram group. Fetch the random wiki page using their API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subrata Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "yargs": "^17.5.1"
+  }
+}
